@@ -1,5 +1,5 @@
 # Self_Driving_Car_with_Raspberry_Pi
-We will train AI model for self-driving car that will work raspberry pi.
+We will train AI model for self-driving car that will work raspberry pi. Two steps are done.
 
 1.Collect and label traffic data: We used roborflow web site. 
 ![image](https://user-images.githubusercontent.com/90163078/230847600-e3ebdcc2-ae7f-4d95-8f9b-99de40753870.png)
