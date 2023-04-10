@@ -30,3 +30,8 @@ size of the bounding boxes. We equal its shape to certain variable, so
 according to its change the car will act. As you know, as it comes near,
 bounding box will be bigger, so in some threshold, it will send a request to
 the car system.
+
+Expectation.
+
+![image](https://user-images.githubusercontent.com/90163078/230848793-880cccde-a40b-4a25-9180-f1cac7de609b.png)
+
