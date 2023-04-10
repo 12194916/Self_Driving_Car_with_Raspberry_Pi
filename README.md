@@ -21,7 +21,7 @@ TensorFlow model for TensorFlow Lite: TensorFlow Lite is a lightweight version
 of TensorFlow designed for mobile and embedded devices. To use the YOLO model
 in ROS, it needs to be optimized for TensorFlow Lite.
 
-5. Convert TensorFlow model to TensorFlow Lite: Once the TensorFlow model is optimized,
+5.Convert TensorFlow model to TensorFlow Lite: Once the TensorFlow model is optimized,
 it can be converted to TensorFlow Lite format using the "tflite_convert"
 command provided by TensorFlow.
 
